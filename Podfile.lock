@@ -1,0 +1,16 @@
+PODS:
+  - ios-linechart (1.3.2):
+    - uikit-utils (~> 0.5.1)
+  - ios-versioncheck (1.0.1)
+  - uikit-utils (0.5.1):
+    - ios-versioncheck (~> 1.0.1)
+
+DEPENDENCIES:
+  - ios-linechart (~> 1.3.2)
+
+SPEC CHECKSUMS:
+  ios-linechart: 8f5a932e2d3e46a2f0c65f1cbc4aa7bc8a26e28b
+  ios-versioncheck: bca7254bd6855e6b713493d958281d3c57507103
+  uikit-utils: 301717f97302d5a1fe0234e3316b9ca2c3794244
+
+COCOAPODS: 0.39.0
